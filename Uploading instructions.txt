@@ -1,0 +1,10 @@
+Hey, You did a great job in making the website. But the way you have uploaded your files on github is not good.
+Also, The style.css is missing which causes the website unpresentable. 
+Also, you can host your website on github for free so that anyone can see it. So you don't need to put the screenshots in the readme secrion.
+
+If you want I can help you out for fixing the code uploaded on github but for that I need the style.css file and your permission.
+
+Feel free to contact me or the same.
+
+All the best,
+Cheers.
